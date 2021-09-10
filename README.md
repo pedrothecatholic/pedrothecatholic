@@ -1,7 +1,7 @@
 - Hi, I’m @pedrothecatholic
 - I’m interested in HTML, CSS & JS
-- I’m currently learning Object-oriented Programming
-- How to reach me: You may mail me by my Outlook account, which is "pedrozica.phs21@gmail.com".
+- Currently learning Object-oriented Programming with PHP
+- To keep in touch, mail me, here's my account: "pedrozica.phs21@gmail.com".
 
 <!---
 pedrothecatholic/pedrothecatholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
