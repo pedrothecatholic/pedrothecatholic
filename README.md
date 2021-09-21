@@ -1,6 +1,6 @@
 - Hi, I’m @pedrothecatholic
 - I’m interested in HTML, CSS & JS
-- Currently learning Object-oriented Programming with PHP
+- Currently learning object-oriented Programming with PHP
 - To keep in touch, here's my email: "pedrozica.phs21@gmail.com".
 
 <!---
