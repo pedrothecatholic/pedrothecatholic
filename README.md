@@ -1,6 +1,6 @@
 - Hi, I’m @pedrothecatholic
-- I’m interested in HTML, CSS & JS
-- Currently learning object-oriented Programming with PHP
+- Recently getting into React.js
+- Currently working with React Native & Typescript
 - To keep in touch, mail me at: "pedro.sousa21@outlook.com".
 
 <!---
