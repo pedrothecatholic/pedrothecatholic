@@ -1,6 +1,5 @@
 - Hi, I’m @pedrothecatholic, systems development technician & intern at SENAI Jandira
-- Recently started learning React.js
-- Currently working with React, React Native & Typescript
+- Currently learning & working with React, React Native & Typescript
 - To keep in touch, mail me at: "pedro.sousa21@outlook.com".
 
 <!---
