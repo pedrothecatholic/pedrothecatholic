@@ -1,4 +1,4 @@
-- Hi, I’m @pedrothecatholic, systems development technician & intern at SENAI Jandira;
+- Hi, I’m @pedrothecatholic, system development technician & intern at SENAI Jandira;
 - Currently learning & working with React, React Native & Typescript;
 - Keep in touch, mail me at pedro.sousa21@outlook.com or at LinkedIn via https://www.linkedin.com/in/pedro-henrique-de-sousa/.
 
